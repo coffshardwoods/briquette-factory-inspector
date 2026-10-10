@@ -1,4 +1,4 @@
-const CACHE = 'briquette-inspector-v2';
+const CACHE = 'briquette-inspector-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
